@@ -1,0 +1,9 @@
+[debug] [2021-03-25T07:28:03.123Z] ----------------------------------------------------------------------
+[debug] [2021-03-25T07:28:03.125Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Dalin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-03-25T07:28:03.126Z] CLI Version:   9.7.0
+[debug] [2021-03-25T07:28:03.126Z] Platform:      win32
+[debug] [2021-03-25T07:28:03.126Z] Node Version:  v14.6.0
+[debug] [2021-03-25T07:28:03.126Z] Time:          Thu Mar 25 2021 03:28:03 GMT-0400 (Eastern Daylight Time)
+[debug] [2021-03-25T07:28:03.127Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-03-25T07:28:03.132Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
